@@ -14,24 +14,24 @@ const database = {
     ],
 
     vegetables: [
-        { id: 1, name: "Okra", price: 10 },
-        { id: 2, name: "Collard Greens", price: 10 },
-        { id: 3, name: "Swiss Chard", price: 10 },
-        { id: 4, name: "Corn", price: 10 },
-        { id: 5, name: "Brussel Sprouts", price: 10 },
-        { id: 6, name: "Sweet Potatoes", price: 10 },
-        { id: 7, name: "Grits", price: 10 },
-        { id: 8, name: "Fried Green Tomatoes", price: 10 },
-        { id: 9, name: "Baked Potato", price: 10 }
+        { id: 1, name: "Okra", price: 5 },
+        { id: 2, name: "Collard Greens", price: 5 },
+        { id: 3, name: "Swiss Chard", price: 5 },
+        { id: 4, name: "Corn", price: 5 },
+        { id: 5, name: "Brussel Sprouts", price: 5 },
+        { id: 6, name: "Sweet Potatoes", price: 5 },
+        { id: 7, name: "Grits", price: 5 },
+        { id: 8, name: "Fried Green Tomatoes", price: 5 },
+        { id: 9, name: "Baked Potato", price: 5 }
     ],
 
     sides: [
-        { id: 1, name: "Chicken Fried Steak", price: 10 },
-        { id: 2, name: "Bacon", price: 10 },
-        { id: 3, name: "Turkey Leg", price: 10 },
-        { id: 4, name: "Ribs", price: 10 },
-        { id: 5, name: "Catfish", price: 10 },
-        { id: 6, name: "Souvlaki", price: 10 }
+        { id: 1, name: "Chicken Fried Steak", price: 3 },
+        { id: 2, name: "Bacon", price: 3 },
+        { id: 3, name: "Turkey Leg", price: 3 },
+        { id: 4, name: "Ribs", price: 3 },
+        { id: 5, name: "Catfish", price: 3 },
+        { id: 6, name: "Souvlaki", price: 3 }
     ],
 
     orders: [
